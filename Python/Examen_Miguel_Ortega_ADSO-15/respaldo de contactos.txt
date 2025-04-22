@@ -1,0 +1,3 @@
+Luz Mary,Ortega Zambrano,6608994100,luzmoz@gmail.com,Calle molí 78 1 1,Santiago de Cali,1999-05-06
+Pedrito,Perez,3123456789,pepito@gmail.com,Calle busquela con carrera encuentrela,Chucombia,2000-08-15
+luis,calvo,3123456789,jndjndfskj@gmail.com,jdnsadjnkdd,caknjs,2222-10-15

@@ -1,0 +1,11 @@
+[
+    {
+        "nombre": "Rodrigo",
+        "apellido": "Ortega",
+        "telefono": "3175010154",
+        "email": "alexortega71@hotmail.com",
+        "direccion": "calle 35D transversal 29-55",
+        "ciudad": "Cali",
+        "fecha_nacimiento": "1977-12-11"
+    }
+]
